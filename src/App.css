@@ -6,6 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+.berlinImg {
+  width: 300px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -14,7 +17,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #939db1;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
